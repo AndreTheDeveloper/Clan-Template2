@@ -3,9 +3,6 @@ import '../css/Slogans.css';
 import united from '../images/united.png'
 import atmosphere from '../images/atmosphere.png'
 import inviting from '../images/inviting.png'
-import Aos from 'aos';
-import 'aos/dist/aos.css'
-import {useEffect} from "react";
 
 class Slogans extends Component {
     render() {
