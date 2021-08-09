@@ -1,0 +1,38 @@
+.aboutContainer {
+    padding-top: 3em;
+    background-color: rgba(0, 0, 0, 0.72);
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 1%;
+}
+
+.aboutTitle {
+    margin-left: 8%;
+    color: rgba(255, 106, 0, 0.66);
+    font-size: 3vw;
+}
+
+.aboutInfoContainer {
+    background-color: rgba(100, 100, 100, 0.72);
+    -webkit-transform: skew(-10deg);
+    -moz-transform: skew(-10deg);
+    -o-transform: skew(-10deg);
+    border-radius: 0.5em;
+    border-style: solid;
+    border-width: 2px;
+    border-color: rgba(255, 106, 0, 0.66);
+    width: 94%;
+    margin-left: 2.5%;
+}
+
+.aboutInfo {
+    -webkit-transform: skew(10deg);
+    -moz-transform: skew(10deg);
+    -o-transform: skew(10deg);
+    text-align: center;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    margin: 2.5%;
+    font-size: 1.2vw;
+}
