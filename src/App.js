@@ -4,13 +4,11 @@ import Slogans from "./components/Slogans";
 import About from "./components/About";
 import News from "./components/News";
 import Events from "./components/Events";
-import {BrowserRouter as Router, Route} from 'react-router-dom';
 
 
 
 function App() {
     return (
-        <Router>
             <div>
                 <Header />
                 <MainTitle />
@@ -25,7 +23,6 @@ function App() {
                     <Events />
                 </div>
             </div>
-        </Router>
     );
 }
 

@@ -1,7 +1,5 @@
 import React, {Component} from 'react';
 import '../css/Header.css'
-import {Link} from 'react-router-dom';
-import About from "./About";
 
 
 class Header extends Component {
