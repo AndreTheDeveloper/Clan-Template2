@@ -1,5 +1,6 @@
 import Header from "./components/Header";
 import MainTitle from "./components/MainTitle";
+import MissionStatement from "./components/MissionStatement";
 import Slogans from "./components/Slogans";
 import About from "./components/About";
 import News from "./components/News";
@@ -13,6 +14,7 @@ function App() {
                 <Header />
                 <MainTitle />
                 <Slogans />
+                <MissionStatement />
                 <div id='about'>
                     <About />
                 </div>
