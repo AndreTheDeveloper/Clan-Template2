@@ -13,14 +13,9 @@ class Events extends Component {
                         <div className='headings eventLocation'>Event Location</div>
                     </div>
                     <div className='eventsGridContainer'>
-                        <div className='eventInfo eventType'>Open Beta</div>
-                        <div className='eventInfo eventDate'>Sept 9, 2021 - Sept 12, 2021</div>
-                        <div className='eventInfo eventLocation'>Everywhere</div>
-                    </div>
-                    <div className='eventsGridContainer'>
-                        <div className='eventInfo eventType'>Game Launch</div>
-                        <div className='eventInfo eventDate'>Sept 28, 2021</div>
-                        <div className='eventInfo eventLocation'>Everywhere</div>
+                        <div className='eventInfo eventType'></div>
+                        <div className='eventInfo eventDate'></div>
+                        <div className='eventInfo eventLocation'></div>
                     </div>
                 </div>
             </div>
