@@ -10,9 +10,8 @@ class News extends Component {
                 </div>
                 <div className='newsInfoContainer'>
                     <div className='newsInfo'>
-                        New Worlds second beta is from September 9 until September 12 and will be
-                        open to everyone. Applications for the beta will be available on September 8 via
-                        steam on the game's page.
+                        New World has been finally released! We are actively looking for new members to join, so if
+                        interested join the discord and say hello!
                     </div>
                 </div>
             </div>
